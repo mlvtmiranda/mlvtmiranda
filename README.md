@@ -8,4 +8,4 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mirand8&theme=dark&showicons=true"/>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/Mirand8/blob/output/github-contribution-grid-snake.svg)
