@@ -1,4 +1,4 @@
-<h1 SALVE 🇧🇷🤙 <h1/> 
+<h1 SALVE 🇧🇷🤙 </h1> 
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Django
