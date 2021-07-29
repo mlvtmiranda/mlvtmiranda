@@ -13,6 +13,6 @@
 -->
 
 <div> 
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mirand8&theme=dark&showicons=true"/>
 </div>
