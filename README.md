@@ -1,7 +1,5 @@
-<h1> SALVE🤙 </h1> 
+🇧🇷 Desenvolvedor C#, com experiência em API's em arquitetura de micro-serviços que atendem a necessidade do cliente. Me sinto confortável trabalhando na maioria dos ambientes Microsoft (Azure) incluindo Sql Server, ambiente de Devops e de versionamento através do git flow. Atualmente estou evoluindo na área de desenvolvimento para me tornar um especialista C# e futuramente iniciar estudos na área de arquitetura de software.  
 
-🇧🇷 Sou estagiário desenvolvedor back-end e trabalho com tecnologias como: C#, Asp.Net.Core, API'S, SQL Server, MongoDB, CQRS, DDD e Micro Services arquitecture e um pouco de front end com React, em uma empresa incrível que tem como principal área de negócio, as linhas aéreas ✈.
-
-🇺🇸 I'm a trainee back-end developer and i work with tecnologies such as: C#, Asp.Net.Core, API'S, SQL Server, MongoDB and arquitectures CQRS, DDD and micro-services and also a little bit of front-end in React, in a amazing company which has as its main business area, the airlines ✈.
+🇺🇸 C# developer, with experience in API's in the microservices architecture environment that meet client's needs. Feel confortable working on most of Microsoft (Azure) environments including Sql Server, Devops environment and versioning through gitflow. Currently i am working on being a C# specialist and in the future to start my studies in the software architecture area.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirand8&langs_count=8&theme=dark"/>
