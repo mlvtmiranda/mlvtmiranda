@@ -2,4 +2,4 @@
 
 🇺🇸 C# developer, with experience in API's in the microservices architecture environment that meet client's needs. Feel confortable working on most of Microsoft (Azure) environments including Sql Server, Devops environment and versioning through gitflow. Currently i am working on being a C# specialist and in the future to start my studies in the software architecture area.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirand8&langs_count=8&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlvtmiranda&langs_count=8&theme=dark"/>
