@@ -17,13 +17,13 @@ Estudando:
 
 🇺🇸 C# developer, with experience in:
 
--API's in microservices architecture
--Environment config and containerizatio/deploy using Docker and K8S for orchestration
--Data base using (SQL Server)EntityFramework, (Oracle)Dapper, (MongoDB)MongoDriver
--Message Queues using Azure Service Bus
--Caching using Redis and RabbitMQ
--Code arquithecture using CQRS and DDD
--Versiong using GitFlow
+- API's in microservices architecture
+- Environment config and containerizatio/deploy using Docker and K8S for orchestration
+- Data base using (SQL Server)EntityFramework, (Oracle)Dapper, (MongoDB)MongoDriver
+- Message Queues using Azure Service Bus
+- Caching using Redis and RabbitMQ
+- Code arquithecture using CQRS and DDD
+- Versiong using GitFlow
 
 Studying:
 
