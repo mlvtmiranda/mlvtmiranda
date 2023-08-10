@@ -27,5 +27,5 @@ Estudando:
 
 Studying:
 
-orquestration files configuration using Kubernetes
-login security
+- Orquestration files configuration using Kubernetes
+- Login security
