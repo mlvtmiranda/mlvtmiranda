@@ -1,9 +1,6 @@
-🇧🇷 Backend Developer - C# and other Azure techs..
+🇧🇷 Back-end Developer
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlvtmiranda&langs_count=8&theme=dark"/>
-
-
-Techs:
 
 - .NET, Asp.Net
 - CQRS/DDD
